@@ -12,7 +12,7 @@ a {
 .hero {
   width: 100%;
   height: 100vh;
-background: url("portfolio-bg.jpg");
+background-image: url('./portfolio-bg.jpg');
   background-size: cover;
 }
 nav {
